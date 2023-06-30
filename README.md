@@ -1,0 +1,2 @@
+# Whois
+Basic whois command
